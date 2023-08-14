@@ -1,0 +1,10 @@
+button{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(16, 16, 93);
+    margin-left: 100px;
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 10px;
+}
+

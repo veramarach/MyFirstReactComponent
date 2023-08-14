@@ -1,0 +1,16 @@
+
+
+.container{
+    display: flex;
+    margin: 20px;
+    position: relative;
+    left: 60px;
+    
+}
+
+.image{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;
+}

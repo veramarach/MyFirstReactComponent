@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    margin: 30px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav{
+    font-weight: bold;
+    color: rgb(12, 12, 166);
+    font-size: 18px;
+}
